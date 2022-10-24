@@ -3,7 +3,7 @@ from PIL import Image
 from pathlib import Path
 
 def remove_bg():
-    list_of_extensions = ['*.png', '*.jpeg']
+    list_of_extensions = ['*.png', '*.jpeg', '*.jpg']
     all_files = []
 
     for ext in list_of_extensions:
