@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9a2d6a-2303-46a5-a79c-bbe9246481fd" name="Changes" comment="works">
-      <change beforePath="$PROJECT_DIR$/image_input/5c68c7da75965b6a6437549d4c8750fa.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_input/70ab7be08eabcad14af19cadbc45f4c0.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_input/c75990d10dd97f1b8743cd3b0f797869.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_output/5c68c7da75965b6a6437549d4c8750fa_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_output/70ab7be08eabcad14af19cadbc45f4c0_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_output/c75990d10dd97f1b8743cd3b0f797869_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666633383308</updated>
       <workItem from="1666633384806" duration="317000" />
-      <workItem from="1666633743414" duration="2033000" />
+      <workItem from="1666633743414" duration="3506000" />
     </task>
     <task id="LOCAL-00001" summary="works">
       <created>1666635535443</created>
@@ -93,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666635583713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="works">
+      <created>1666635994813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666635994813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +117,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="works" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RemoveBackground$main.coverage" NAME="main Coverage Results" MODIFIED="1666635786008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RemoveBackground$main.coverage" NAME="main Coverage Results" MODIFIED="1666635905344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
